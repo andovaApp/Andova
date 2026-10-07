@@ -2,6 +2,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/Andro-Coder-07/Ultimate-Parental-Control?style=social)](https://github.com/Andro-Coder-07/Ultimate-Parental-Control)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Live Website](https://img.shields.io/badge/Live%20Website-advanced.andova.online-0f766e?style=flat)](https://advanced.andova.online/)
 
 **The Ultimate Parental Control & Remote Administration Platform** is a comprehensive, web-based solution designed for **parental control**, **family safety**, and **ethical device management**. This powerful tool allows parents and guardians to monitor and understand digital activity in a transparent and secure way, promoting healthy screen habits and online safety for children and family members.
 
@@ -58,7 +59,7 @@ Built on a foundation of modern, high-performance technologies for maximum relia
 
 Setting up the Ultimate Parental Control & Remote Administration Platform is straightforward and quick:
 
-1.  **Visit the Secure Portal**: Navigate to [https://andova.online/](https://andova.online/)
+1.  **Visit the Secure Portal**: Navigate to [https://advanced.andova.online/](https://advanced.andova.online/)
 2.  **Create Your Account**: Sign up for a secure administrator account to manage your family's devices.
 3.  **Build Your System**: Utilize our web-based builder to generate your customized management client.
 4.  **Configure Settings**: Tailor your monitoring and safety features to align with your family's specific requirements.
@@ -97,7 +98,7 @@ Setting up the Ultimate Parental Control & Remote Administration Platform is str
 
 For any questions, support, or community engagement, please reach out to our dedicated team:
 
-*   **Official Website**: [https://andova.online/](https://andova.online/)
+*   **Official Website**: [https://advanced.andova.online/](https://advanced.andova.online/)
 *   **Email Support**: [team@andova.online](mailto:team@andova.online) | [team@andova.online](mailto:team@andova.online)
 *   **Telegram Community**: Join our community for discussions and updates: [@jrram3000](https://t.me/jrram3000)
 
